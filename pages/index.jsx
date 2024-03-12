@@ -68,7 +68,6 @@ export default function Home({ posts }) {
       </Head>
       <Layout>
         {/* Start Hero Section */}
-        {myTitle}
         <Hero
           title={myTitle}
           subtitle='We deliver best problem solving solution for our client and provide finest finishing product in present and upcoming future.'
